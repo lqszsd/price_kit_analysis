@@ -1,0 +1,17 @@
+{"level":"info","ts":1653631234997,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1653631441606,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1653633700691,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1653634083447,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1653634391242,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1653635611530,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654148428893,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654149002282,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654149035235,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654149341291,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654149416491,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654149515479,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654157659492,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654157748704,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654157843912,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654160036764,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1654160192104,"caller":"logtool/log.go:89","msg":"[NewLogger] success"}
